@@ -1,16 +1,12 @@
 ### 👋 Hi
 
-I'm Bruno, full stack developer since 2011.
+As a Senior Software Engineer, I specialize in TypeScript, React, and Node.js, with solid knowledge in PHP, Laravel, Python, PostgreSQL, MongoDB, GraphQL, CI/CD, and Serverless.
 
-Professional with empathy, lover of the search for solutions as a whole, with a view to an expanded way of thinking, I am also Nicole's father. And besides writing the code (I do) and oddly enough, I have ADHD Oh, I love Coffee too! ☕
+I have extensive experience in web application development, especially in Cloud environments, AWS, and Jenkins, which allows me to deliver high-quality software and efficient DevOps, following SOLID and DESIGN PATTERNS principles. Additionally, I have experience in automated testing (TDD), DDD, Microservices, and Crawler.
 
-Enthusiastic developer with more than 13 years of experience in creating scalable web applications, using PHP (Laravel, CodeIgniter and Zend), Python (Django and Flask) and JavaScript (Node, React.js and Next.js).
+My goal is to ensure customer satisfaction, and I am passionate about ensuring that the code is clean and organized, delivering projects on time and with quality, following market best practices, using high-quality, scalable, and performance-appropriate solutions, always seeking to learn and apply new technologies. I have experience in agile projects and am always committed to improving my performance and skills through continuous learning.
 
-Knowledge in Cloud environment, AWS, Jenkins and Kubernetes. Experience in automated testing (TDD), DDD, Microservices and Crawler.
-
-Delivering quality assured software to the customer and efficiency from DevOps, using SOLID principles and DESIGN PATTERNS.
-
-Experience in penetration testing in web applications, following the phase of application recognition, scanning and gaining access and exploitation.
+As Nicole's father and a coffee lover, I'm always looking for ways to balance my personal and professional life.
 
 
 ### 🌱 I work with
